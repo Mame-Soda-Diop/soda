@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.rose{
+    background-color: pink;
+    width: 70%;
+    height: 80vh;
+    margin-top: 40PX;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+.left{
+    background-image: url("images/imagehijab.jpg");
+    width: 60%;
+    height: 50vh;
+    background-size: cover;
+}
+.rigth{
+    background-color: rgb(81, 14, 81);
+    width: 28%;
+    height: 50vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-family: 'Titan One', cursive;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+
+}
+#h4{
+    font-family: 'Titan One', cursive;
+font-size: 80px;
+color: white;
+text-align: center;
+}
+.ecriture{
+    height: 20%;
+    box-sizing: border-box;
+}
